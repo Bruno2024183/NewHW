@@ -1,0 +1,21 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+header {
+  background-color: #dc3545;
+  padding: 50px 0;
+}
+
+section.container .row .col-md-4 {
+  border-radius: 10px;
+}
+
+.contact {
+  padding: 50px 0;
+}
+
+.contact form {
+  max-width: 500px;
+  margin: 0 auto;
+}
