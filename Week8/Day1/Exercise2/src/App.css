@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+  margin-top: 20px;
+}
+
+h3 {
+  font-size: 24px;
+  color: #333;
+}
+
+ul {
+  list-style-type: none;
+}
+
+li {
+  font-size: 20px;
+  color: #444;
+}
